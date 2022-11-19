@@ -1,6 +1,6 @@
-### Hi there 👋
 
-- I'll eventually make this look decent
+
+![image](https://cdn.discordapp.com/attachments/480193673795993601/1007457269421707275/Crack_Inc..png)
 
 
 <!--
