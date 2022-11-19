@@ -2,6 +2,7 @@
 
 ![image](https://cdn.discordapp.com/attachments/480193673795993601/1007457269421707275/Crack_Inc..png)
 
+***Hello, I'm Sername*** 👋
 
 <!--
 **NotSername/NotSername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
