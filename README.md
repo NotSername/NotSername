@@ -1,6 +1,6 @@
 
 
-![image]((https://github.com/NotSername/textrep/raw/master/gfgfhfjgh5t5gy566.png))
+![image](https://raw.githubusercontent.com/NotSername/textrep/master/gfgfhfjgh5t5gy566.png?token=GHSAT0AAAAAACIAH366WWFAVXFJKOUTVXGKZOZ7H4A)
 
 ***Hello, I'm Sername*** 👋
 
