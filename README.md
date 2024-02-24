@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/NotSername/textrep/blob/master/Crack_Inc..png?raw=true)
+![image](https://github.com/NotSername/NotSername/blob/main/Crack_Inc..png?raw=true)
 
 ***Hello, I'm Sername*** 👋
 
