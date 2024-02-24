@@ -1,6 +1,6 @@
 
 
-![image](https://raw.githubusercontent.com/NotSername/textrep/master/Crack_Inc..png?token=GHSAT0AAAAAACIAH366WWFAVXFJKOUTVXGKZOZ7H4A)
+![image](https://github.com/NotSername/textrep/blob/master/Crack_Inc..png?raw=true)
 
 ***Hello, I'm Sername*** 👋
 
