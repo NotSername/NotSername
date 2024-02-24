@@ -1,6 +1,6 @@
 
 
-![image]([https://cdn.discordapp.com/attachments/480193673795993601/1007457269421707275/Crack_Inc..png](https://github.com/NotSername/textrep/raw/master/gfgfhfjgh5t5gy566.png))
+![image]((https://github.com/NotSername/textrep/raw/master/gfgfhfjgh5t5gy566.png))
 
 ***Hello, I'm Sername*** 👋
 
